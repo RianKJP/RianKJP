@@ -62,10 +62,6 @@
 
 </div>
   
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RianKJP}/count.svg" /></p> 
-<br></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RianKJP/RianKJP/output/pacman-contribution-graph-dark.svg">
